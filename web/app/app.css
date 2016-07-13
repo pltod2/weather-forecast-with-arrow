@@ -1,0 +1,5 @@
+.card-header-details .icon::before {
+	position: relative;
+  right: 7px;
+  top: 1px;
+}
